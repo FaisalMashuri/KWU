@@ -1,6 +1,6 @@
 # KWU
 nanti file - filenya simpen disini aja , bair ga lempar lemparan file rar
-terus simpen filenya sesuai branch
+terus simpen filenya sesuai branch. jangan lupa download git dulu, file downloadnya cari sendiri di google
 
 ### Cara Pakai
 * git init
